@@ -1,3 +1,3 @@
 # gitskills
-fuck up main1 dev 
+fuck up issue-101
 
