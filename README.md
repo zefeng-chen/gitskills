@@ -1,2 +1,2 @@
 # gitskills
-fuck up
+fuck up main1
